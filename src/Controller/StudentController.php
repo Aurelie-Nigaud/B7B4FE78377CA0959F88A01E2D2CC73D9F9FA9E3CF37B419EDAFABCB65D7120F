@@ -53,7 +53,7 @@ class StudentController extends BaseController
      *     description="student fields",
      *     @Model(type=CreateStudentDTO::class)
      * )
-     * @SWG\Tag(name="create student")
+     * @SWG\Tag(name="Create student")
      *
      * @return JsonResponse
      */
@@ -80,7 +80,7 @@ class StudentController extends BaseController
      *     description="student fiels to Update",
      *     @Model(type=UpdateStudentDTO::class)
      * )
-     * @SWG\Tag(name="update student")
+     * @SWG\Tag(name="Update student")
      *
      * @param UpdateStudentDTO $updateStudentDTO
      * @return JsonResponse
@@ -117,7 +117,7 @@ class StudentController extends BaseController
      * @SWG\Response(
      *     response=200,
      *     description="Return deletes message",
-     *     @SWG\Schema(type="string", description="delete is ok")
+     *     @SWG\Schema(type="string", description="delete is done")
      *    )
      * )
      *
@@ -148,7 +148,7 @@ class StudentController extends BaseController
      *     description="Grade format",
      *     @Model(type=AddStudentGradeDTO::class)
      * )
-     * @SWG\Tag(name="update student")
+     * @SWG\Tag(name="Add student grade")
      *
      */
     public function addStudentGrade(int $id, AddStudentGradeDTO $grade): JsonResponse

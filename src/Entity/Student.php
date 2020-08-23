@@ -4,7 +4,6 @@ namespace App\Entity;
 
 use DateTime;
 use Doctrine\Common\Collections\ArrayCollection;
-use Doctrine\ORM\PersistentCollection;
 use Symfony\Component\Validator\Constraints as Assert;
 use Doctrine\ORM\Mapping as ORM;
 
@@ -179,14 +178,13 @@ class Student
         array_walk($grades, function ($grade) {
             $grade->setStudent($this);
             $grade->setClassroom($this->getClassroom());
-
             $this->grades->add($grade);
         });
     }
 
     /**
      * @use get global average for a student
-     * @return float|null
+     * @return int
      */
     public function getGlobalAvg(): ?float
     {

@@ -13,13 +13,13 @@ class AddStudentGradeDTO
 {
     /**
      * @var float
-     * @SWG\Property(type="float", example="8.2")
+     * @SWG\Property(type="float", example=8.2)
      */
     public $value;
 
     /**
      * @var int
-     * @SWG\Property(type="integer", description="subject id", example="1")
+     * @SWG\Property(type="integer", description="subject id", example=1)
      */
     public $subject;
 

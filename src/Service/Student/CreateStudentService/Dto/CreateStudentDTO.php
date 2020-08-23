@@ -30,7 +30,7 @@ class CreateStudentDTO
 
     /**
      * @var ?int
-     * @SWG\Property(type="integer", description="classroom id", example="1")
+     * @SWG\Property(type="integer", description="classroom id", example=1)
      */
     public $classroom;
 

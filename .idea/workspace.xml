@@ -118,11 +118,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\schoolmanager\src\Service\DomainService" />
       <recent name="C:\wamp64\www\schoolmanager\src\" />
       <recent name="C:\wamp64\www\schoolmanager\src\Repository\Classroom" />
       <recent name="C:\wamp64\www\schoolmanager\src\Service\Student\UpdateStudentService\Dto" />
       <recent name="C:\wamp64\www\schoolmanager\src\Controller\ParamConverter\" />
-      <recent name="C:\wamp64\www\schoolmanager\src\Controller\ParamConverter\Student" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -135,7 +135,7 @@
       <updated>1597333545562</updated>
       <workItem from="1597333547281" duration="45770000" />
       <workItem from="1597588261382" duration="1240000" />
-      <workItem from="1597590035948" duration="166958000" />
+      <workItem from="1597590035948" duration="173055000" />
     </task>
     <servers />
   </component>
@@ -151,18 +151,18 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="573" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1597333892342" />
-    <state x="593" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1598196923589">
+    <state x="593" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1598205979277">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="593" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1598196923589" />
+    <state x="593" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1598205979277" />
     <state x="634" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598095329868">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="634" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1598095329868" />
-    <state x="530" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1598184340743">
+    <state x="530" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1598205653982">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="530" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1598184340743" />
+    <state x="530" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1598205653982" />
     <state width="325" height="442" key="Diff.GoToChangePopup" timestamp="1598103947910">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -171,10 +171,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="92" y="92" width="1416" height="676" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1598199825881" />
-    <state x="579" y="152" key="NewPhpClassDialog" timestamp="1598190867351">
+    <state x="579" y="152" key="NewPhpClassDialog" timestamp="1598205531068">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="579" y="152" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1598190867351" />
+    <state x="579" y="152" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1598205531068" />
     <state x="634" y="353" key="NewPhpFileDialog" timestamp="1597338610894">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
